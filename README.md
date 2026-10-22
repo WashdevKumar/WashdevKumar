@@ -1,26 +1,39 @@
-Hi, I'm Washdev Kumar 👋
+# Hi, I'm Washdev Kumar 👋
 
 🎓 BS Artificial Intelligence Student
 
-💻 Learning Java and C++
+💻 Learning Java, C++, and Python
 
-🤖 Interested in Artificial Intelligence and Software Development
+🤖 Aspiring AI Developer
 
 🎨 Graphic Designer
 
-Skills
-
+## Skills
 - Java
 - C++
+- Python
+- Flask
 - Artificial Intelligence (Learning)
 - GitHub
+- Graphic Design
 
-My Project
+## My Projects
 
-- Student Management System — Java
+### Student Performance Predictor
+A Python Flask web application that estimates student marks using previous marks, attendance, and daily study hours.
 
-Goals
+[View Project](https://github.com/WashdevKumar/StudentPerformancePredictor)
 
-I am building my programming skills and creating projects as I learn.
+### Student Management System
+A Java project for managing student records.
 
-Thanks for visiting my profile!
+[View Project](https://github.com/WashdevKumar/Student-Management-System)
+
+## My Goals
+I am building my programming skills and learning Artificial Intelligence through practical projects.
+
+## Connect With Me
+- [GitHub Profile](https://github.com/WashdevKumar)
+- [LinkedIn](https://www.linkedin.com/in/washdev-kumar-996220444/)
+
+Thanks for visiting my profile! 😊
